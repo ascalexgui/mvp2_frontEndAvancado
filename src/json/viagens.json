@@ -1,0 +1,44 @@
+{
+    "destinos": [
+        {
+            "id": 1,
+            "title": "Chile",
+            "dataviagem": "27/11/2021",
+            "description": "Ficamos 3 dias em Santiago, 5 dias no Atacama e por fim ficamos 4 dias no Condominio com a maior piscina do mundo",
+            "category": "Internacional",
+            "image": [
+                "https://www.essemundoenosso.com.br/wp-content/uploads/2017/07/viajar-pra-santiago-1a.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Disney",
+            "dataviagem": "04/11/2017",
+            "description": "Ficamos 22 dias em Orlando e fomos aos parques da Disney e Universal",
+            "category": "Internacional",
+            "image": [
+                "https://yt3.ggpht.com/a/AATXAJy3Z8msD_MKdPd4dTLB_kZiqOBM7SPquy2uKQ=s900-c-k-c0xffffffff-no-rj-mo"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Cancun",
+            "dataviagem": "10/10/2016",
+            "description": "Ficamos 10 dias em Cancun incluindo Vila Del Carmem, Cozumel e o resort Dreams",
+            "category": "Internacional",
+            "image": [
+                "https://www.worldatlas.com/upload/94/49/83/cancun-mexico-jdross75.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "New York",
+            "dataviagem": "02/01/2013",
+            "description": "Cidade dos sonhos. Ficamos apenas 7 dias e não foi suficiente para conhecer tudo que gostaríamos",
+            "category": "Internacional",
+            "image": [
+                "https://wallpapercave.com/wp/wp6504880.jpg"
+            ]
+        }
+    ]
+}
