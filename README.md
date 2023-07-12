@@ -15,6 +15,6 @@ $ npm install
 Este comando instala as dependências/bibliotecas, descritas no arquivo package.json. Uma pasta chamada node_modules será criada.
 
 Para executar a interface basta executar o comando:
-
 $ npm start
+
 Abra o http://localhost:3000/#/ no navegador.
