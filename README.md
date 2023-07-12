@@ -1,7 +1,5 @@
-# mvp2_frontEndAvancado
-Desenvolvimento do MVP da sprint II - Desenvolvimento Front-End Avançado
-
-Este é um projeto que faz parte do MVP da sprint 2 do curso 
+# Aluna: Andreia Souza Carvalho
+Este é um projeto que faz parte do MVP da sprint 2 - Desenvolvimento Front-End Avançado
 
 # Prototipo de Alta Fidelidade
 O prototipo de Alta Fidelidade foi desenvolvido no FIGMA e pode ser acessado através do link abaixo:
